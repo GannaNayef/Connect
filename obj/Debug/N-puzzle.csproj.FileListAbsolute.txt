@@ -1,0 +1,30 @@
+/home/ganna/RiderProjects/N-puzzle/N-puzzle/bin/Debug/N_puzzle.exe
+/home/ganna/RiderProjects/N-puzzle/N-puzzle/bin/Debug/N_puzzle.pdb
+/home/ganna/RiderProjects/N-puzzle/N-puzzle/obj/Debug/N-puzzle.csprojAssemblyReference.cache
+/home/ganna/RiderProjects/N-puzzle/N-puzzle/obj/Debug/N_puzzle.exe
+/home/ganna/RiderProjects/N-puzzle/N-puzzle/obj/Debug/N_puzzle.pdb
+C:/Users/DELL/Desktop/N-puzzle/N-puzzle/N-puzzle/bin/Debug/N_puzzle.exe
+C:/Users/DELL/Desktop/N-puzzle/N-puzzle/N-puzzle/bin/Debug/N_puzzle.pdb
+C:/Users/DELL/Desktop/N-puzzle/N-puzzle/N-puzzle/obj/Debug/N-puzzle.csprojResolveAssemblyReference.cache
+C:/Users/DELL/Desktop/N-puzzle/N-puzzle/N-puzzle/obj/Debug/N_puzzle.exe
+C:/Users/DELL/Desktop/N-puzzle/N-puzzle/N-puzzle/obj/Debug/N_puzzle.pdb
+D:/N-puzzle/N-puzzle/N-puzzle/N-puzzle/bin/Debug/N_puzzle.exe
+D:/N-puzzle/N-puzzle/N-puzzle/N-puzzle/bin/Debug/N_puzzle.pdb
+D:/N-puzzle/N-puzzle/N-puzzle/N-puzzle/obj/Debug/N-puzzle.csprojResolveAssemblyReference.cache
+D:/N-puzzle/N-puzzle/N-puzzle/N-puzzle/obj/Debug/N_puzzle.exe
+D:/N-puzzle/N-puzzle/N-puzzle/N-puzzle/obj/Debug/N_puzzle.pdb
+D:/N-puzzle/N-puzzle/test/N-puzzle/N-puzzle/bin/Debug/N_puzzle.exe
+D:/N-puzzle/N-puzzle/test/N-puzzle/N-puzzle/bin/Debug/N_puzzle.pdb
+D:/N-puzzle/N-puzzle/test/N-puzzle/N-puzzle/obj/Debug/N-puzzle.csprojResolveAssemblyReference.cache
+D:/N-puzzle/N-puzzle/test/N-puzzle/N-puzzle/obj/Debug/N_puzzle.exe
+D:/N-puzzle/N-puzzle/test/N-puzzle/N-puzzle/obj/Debug/N_puzzle.pdb
+C:/Users/ganna/Desktop/3RD YEAR/Algorithm/N-puzzle/N-puzzle/bin/Debug/N_puzzle.exe
+C:/Users/ganna/Desktop/3RD YEAR/Algorithm/N-puzzle/N-puzzle/bin/Debug/N_puzzle.pdb
+C:/Users/ganna/Desktop/3RD YEAR/Algorithm/N-puzzle/N-puzzle/obj/Debug/N-puzzle.csprojAssemblyReference.cache
+C:/Users/ganna/Desktop/3RD YEAR/Algorithm/N-puzzle/N-puzzle/obj/Debug/N_puzzle.exe
+C:/Users/ganna/Desktop/3RD YEAR/Algorithm/N-puzzle/N-puzzle/obj/Debug/N_puzzle.pdb
+/home/ganna/Desktop/N-puzzle/N-puzzle/bin/Debug/N_puzzle.exe
+/home/ganna/Desktop/N-puzzle/N-puzzle/bin/Debug/N_puzzle.pdb
+/home/ganna/Desktop/N-puzzle/N-puzzle/obj/Debug/N-puzzle.csprojAssemblyReference.cache
+/home/ganna/Desktop/N-puzzle/N-puzzle/obj/Debug/N_puzzle.exe
+/home/ganna/Desktop/N-puzzle/N-puzzle/obj/Debug/N_puzzle.pdb
